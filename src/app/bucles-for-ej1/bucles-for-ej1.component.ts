@@ -9,7 +9,7 @@ export class BuclesForEj1Component {
   
   numero: number = 0
   
-  resultado: string =""
+  resultado: string =""   //Acumulador
 
   mostrarResultado(): void{
 
